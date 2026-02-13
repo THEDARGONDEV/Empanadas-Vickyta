@@ -1,0 +1,5 @@
+{
+  "name": "Empanadas Vickyta",
+  "description": "Una aplicación web de una sola página para ver el menú de Empanadas Vickyta y realizar pedidos a través de WhatsApp. Cuenta con un diseño elegante, minimalista y formal con una calculadora de precios en tiempo real.",
+  "requestFramePermissions": []
+}
